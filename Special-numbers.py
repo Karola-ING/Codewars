@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5a55f04be6be383a50000187
+
 def my_retrurn(number):
     special_nums = [0, 1, 2, 3, 4, 5]
     test_nums = []
