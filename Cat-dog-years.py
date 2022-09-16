@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
+
 def is_human_number_a_whole_number(human_years):
     try:
         int(human_years)
