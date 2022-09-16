@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/55a58505cb237a076100004a
+
 def find_2nd_largest(arr):
 
     string_arr = []
