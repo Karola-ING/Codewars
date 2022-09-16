@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/586d12f0aa042830910001d1
+
 import string
 
 def remove_char(array):
