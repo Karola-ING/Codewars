@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5a3dd29055519e23ec000074
+
 def check_exam(arr1,arr2):
     result = 0
     for element in range(4):
